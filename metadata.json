@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest",
+  "description": "A beginner-friendly, story-based coding adventure that teaches programming without fear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
